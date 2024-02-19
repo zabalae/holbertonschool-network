@@ -9,3 +9,4 @@ fi
 ip_address=$1
 
 ping -c 5 -i 1 "$ip_address"
+
